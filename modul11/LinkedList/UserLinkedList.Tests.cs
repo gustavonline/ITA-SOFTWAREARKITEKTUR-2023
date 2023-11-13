@@ -86,5 +86,11 @@ namespace LinkedList.Tests
             Assert.AreEqual(kristian.Name, list.GetLast().Name);
         }
 
+        [TestMethod]
+        public void TestContains()
+        {
+            
+        }
+
     }
 }

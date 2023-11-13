@@ -9,7 +9,7 @@
         /// <param name="tal">Det tal der skal findes.</param>
         /// <returns></returns>
         public static int FindNumberLinear(int[] array, int tal) {
-            // TODO: Implement!
+            //Todo: Implement!
             return -1;
         }
         /// <summary>

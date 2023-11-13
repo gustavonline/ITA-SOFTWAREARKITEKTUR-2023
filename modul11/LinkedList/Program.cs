@@ -22,3 +22,5 @@ list.RemoveFirst();
 
 Console.WriteLine(list.CountUsers());
 Console.WriteLine(list);
+
+Console.WriteLine(list.Contains(torill));

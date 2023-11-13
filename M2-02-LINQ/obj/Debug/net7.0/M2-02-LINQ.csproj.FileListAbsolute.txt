@@ -1,0 +1,14 @@
+/Users/gustavanderson/Downloads/ITA-Softwarearkitektur/M2-02-LINQ/bin/Debug/net7.0/M2-02-LINQ
+/Users/gustavanderson/Downloads/ITA-Softwarearkitektur/M2-02-LINQ/bin/Debug/net7.0/M2-02-LINQ.deps.json
+/Users/gustavanderson/Downloads/ITA-Softwarearkitektur/M2-02-LINQ/bin/Debug/net7.0/M2-02-LINQ.runtimeconfig.json
+/Users/gustavanderson/Downloads/ITA-Softwarearkitektur/M2-02-LINQ/bin/Debug/net7.0/M2-02-LINQ.dll
+/Users/gustavanderson/Downloads/ITA-Softwarearkitektur/M2-02-LINQ/bin/Debug/net7.0/M2-02-LINQ.pdb
+/Users/gustavanderson/Downloads/ITA-Softwarearkitektur/M2-02-LINQ/obj/Debug/net7.0/M2-02-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavanderson/Downloads/ITA-Softwarearkitektur/M2-02-LINQ/obj/Debug/net7.0/M2-02-LINQ.AssemblyInfoInputs.cache
+/Users/gustavanderson/Downloads/ITA-Softwarearkitektur/M2-02-LINQ/obj/Debug/net7.0/M2-02-LINQ.AssemblyInfo.cs
+/Users/gustavanderson/Downloads/ITA-Softwarearkitektur/M2-02-LINQ/obj/Debug/net7.0/M2-02-LINQ.csproj.CoreCompileInputs.cache
+/Users/gustavanderson/Downloads/ITA-Softwarearkitektur/M2-02-LINQ/obj/Debug/net7.0/M2-02-LINQ.dll
+/Users/gustavanderson/Downloads/ITA-Softwarearkitektur/M2-02-LINQ/obj/Debug/net7.0/refint/M2-02-LINQ.dll
+/Users/gustavanderson/Downloads/ITA-Softwarearkitektur/M2-02-LINQ/obj/Debug/net7.0/M2-02-LINQ.pdb
+/Users/gustavanderson/Downloads/ITA-Softwarearkitektur/M2-02-LINQ/obj/Debug/net7.0/M2-02-LINQ.genruntimeconfig.cache
+/Users/gustavanderson/Downloads/ITA-Softwarearkitektur/M2-02-LINQ/obj/Debug/net7.0/ref/M2-02-LINQ.dll

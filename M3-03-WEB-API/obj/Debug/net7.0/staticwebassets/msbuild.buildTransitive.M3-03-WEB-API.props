@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/M3-03-WEB-API.props" />
+</Project>

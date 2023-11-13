@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "adxGWHoMitMXf5ylwUXrq5SanJFftN24Ta5zL0NksxhhOn5nJ7wE1P2uvswXKBAQshLL2YEF9rLJ/TQ1wIRCEg==",
+  "success": true,
+  "projectFilePath": "/Users/gustavanderson/Downloads/ITA-Softwarearkitektur/M3-03-WEB-API/M3-03-WEB-API.csproj",
+  "expectedPackageFiles": [
+    "/Users/gustavanderson/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/gustavanderson/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/gustavanderson/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/gustavanderson/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/gustavanderson/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/gustavanderson/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/gustavanderson/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
