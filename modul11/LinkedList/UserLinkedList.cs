@@ -77,6 +77,7 @@
             return node.Data;
         }
 
+        //Kan også laves så den er konstand tid, hvis man opretter en counter på datastrukturen 
         public int CountUsers()
         {
             Node node = first;
