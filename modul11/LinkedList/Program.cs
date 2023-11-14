@@ -14,6 +14,14 @@ list.AddFirst(torill);
 list.AddFirst(henrik);
 list.AddFirst(klaus);
 
+// AddSorted metoden er implementeret i UserLinkedList.cs og bruges i forbindelse med opgave 4 SortedUserLinkedList
+/*list.AddSorted(kristian);
+list.AddSorted(mads);
+list.AddSorted(torill);
+list.AddSorted(henrik);
+list.AddSorted(klaus);*/
+
+
 Console.WriteLine(list.CountUsers());
 Console.WriteLine(list);
 

@@ -21,6 +21,27 @@
             first = node;
         }
 
+        //Opgave 4, SortedUsedLinkedList AddFirst metode omdannes til AddSorted metode
+        public void AddSorted(User user)
+        {
+            Node newNode = new Node(user, null);
+            if (first == null || first.Data.Id > user.Id)
+            {
+                newNode.Next = first;
+                first = newNode;
+            }
+            else
+            {
+                Node current = first;
+                while (current.Next != null && current.Next.Data.Id < user.Id)
+                {
+                    current = current.Next;
+                }
+                newNode.Next = current.Next;
+                current.Next = newNode;
+            }
+        }
+
         public object RemoveFirst()
         {
             if (first == null)
