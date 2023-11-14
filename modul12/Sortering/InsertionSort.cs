@@ -5,7 +5,28 @@ public class InsertionSort
 
     public static void Sort(int[] array)
     {
-        // TODO!
-        return;
+        //Løb usorteret del af array igennem
+        for (int i = 1; i < array.Length; i++)
+        {
+            int next = array[i]; //næste tal
+            
+            // Skub sortede elementer en plads op
+            int j = i;
+            Boolean found = false;
+            while (!found && j > 0)
+            {
+                if (next >= array[j - 1])
+                {
+                    found = true;
+                }
+                else
+                {
+                    array[j] = array[j - 1];
+                    j--;
+                }
+            }
+
+            array[j] = next; //tallet indsættes på sin plads
+        }
     }
 }

@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using Sortering.Tests;
 
 namespace Sortering;
 
@@ -6,15 +7,15 @@ public class SortTester
 {
     public static void Run()
     {
-        int testSize = 100000;
-        int Min = 0;
-        int Max = 10000;
-        Random randNum = new Random();
+        int testSize = 100000; //størrelsen på arrayet der skal sorteres
+        int Min = 0; //minimum værdi i arrayet
+        int Max = 10000; //maksimum værdi i arrayet
+        Random randNum = new Random(); //tilfældige tal
 
-        int[] bigArray = Enumerable
-            .Repeat(0, testSize)
+        int[] bigArray = Enumerable 
+            .Repeat(0, testSize) 
             .Select(i => randNum.Next(Min, Max))
-            .ToArray();
+            .ToArray(); 
 
         int[] bigArray1 = (int[]) bigArray.Clone();
         int[] bigArray2 = (int[]) bigArray.Clone();

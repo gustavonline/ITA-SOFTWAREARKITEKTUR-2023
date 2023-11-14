@@ -1,4 +1,4 @@
-namespace Sortering;
+namespace Sortering.Tests;
 
 public class SelectionSort
 {
@@ -11,7 +11,19 @@ public class SelectionSort
 
     public static void Sort(int[] array)
     {
-        // TODO!
-        return;
+        for (int i = 0; i < array.Length; i++)
+        {
+            int min = i; 
+            
+            //find det mindste tal
+            for (int j = i + 1; j < array.Length; j++)
+            {
+                if (array[j] < array[min])
+                {
+                    min = j;
+                }
+            }
+            Swap(array, i, min);
+        }
     }
 }
